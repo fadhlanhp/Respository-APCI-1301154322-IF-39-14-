@@ -1,0 +1,6 @@
+Programm Hello;
+User crt;
+Begin
+  ClrScr
+    Writein('hello World')
+  
