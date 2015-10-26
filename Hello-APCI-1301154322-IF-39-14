@@ -1,6 +1,15 @@
 Programm Hello;
 User crt;
 Begin
-  ClrScr
-    Writein('hello World')
+  ClrScr;
+    Writeln('hello World');
+    Writeln('1301154322');
+    Writeln('Fadhlan Harno Prayogi');
+    Writeln('IF-39-14');
+    Writeln('Wida');
+    Writeln('1301154168');
+    Writeln('Modul 6');
+    End
+    
+    
   
